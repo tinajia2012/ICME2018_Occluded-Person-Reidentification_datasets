@@ -23,17 +23,21 @@ Examples of (a) raw occluded images, (b) occluded images with manual annotations
 
 ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/result1.JPG)
 
-
+#### Performance of AFPB framework
+To evaluate the performance of our proposed Attention FrameworkofPersonBody(AFPB),we compare it with three networks: 1) the baseline network, ResNet-50 pretained on a large-scare person re-id dataset MARS, 2) the baseline network with the ﬁrst component of the AFPB, Occlusion Simulator, 3) the baseline network with the second component of the AFPB, multi-task losses, on four datasets, Occluded-REID, Partial-REID, P-DukeMTMC-reID and PETHZ.
  
 ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/result2.JPG)
+
+#### Comparison with the state-of-the-art
+
+We compare our method with the state-of-the-art methods on the Occluded-REID dataset and Partial-REID dataset.
   
 ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/result3.JPG)
- 
-
-All the datasets are only allowed for non-commercial purposes.  If these datasets are used for research, please refer to the corresponding paper. 
-This is the page for our paper Occluded Person Re-identification, to be appeared in ICME 2018. We are the first to propose the occluded person re-id task, as is illustrated below. 
-
+  
 ## Occluded Person Re-id Datasets
 
 ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/dataset.JPG)
+
+All the datasets are only allowed for non-commercial purposes.  If these datasets are used for research, please refer to the corresponding paper. 
+This is the page for our paper Occluded Person Re-identification, to be appeared in ICME 2018. We are the first to propose the occluded person re-id task, as is illustrated below.
 
