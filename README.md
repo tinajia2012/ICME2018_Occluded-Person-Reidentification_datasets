@@ -16,7 +16,14 @@ The overview of our approach is as follows. Given source images, we ﬁrstuseanO
 ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/framework.JPG)
 
 ### Experiment
+We evaluate the proposed method on four datasets: Occluded-REID, Partial-REID, P-DukeMTMC-reID and PETHZ, each of which is organized into two parts: occluded person images and full-body person images.
+
+#### visual experiment of AFPB
+Examples of (a) raw occluded images, (b) occluded images with manual annotations of person body parts (c) saliency maps of the baseline network (d) saliency maps of the AFPB. The salient region reveals the part that the network representation focuses on. Our proposed, the AFPB pays more attention to person body parts without occlusions.
+
 ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/result1.JPG)
+
+
  
 ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/result2.JPG)
   
