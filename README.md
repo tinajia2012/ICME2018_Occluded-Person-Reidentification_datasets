@@ -64,6 +64,13 @@ If our Occluded-REID, P-DukeMTMC-reID and P-ETHZ datasets facilitate your resear
   year={2018}
 }
 ```
+The right of final interpretation belongs to Prof. Lai’s research group, Sun Yat-Sen University.
+## Contact
+
+*stsljh@mail.sysu.edu.cn
+*zhuojx5@mail2.sysu.edu.cn
+*chenzy5@mail2.sysu.edu.cn
+*wanggc3@mail2.sysu.edu.cn
 
 ## Reference
 [1]Jiaxuan Zhuo, Zeyu Chen, Jianhuang Lai, Guangcong Wang. Occluded Person Re-Identification.2018 IEEE International Conference on Multimedia and Expo, ICME 2018, San Diego, CA, USA, July 23-27, 2018.
