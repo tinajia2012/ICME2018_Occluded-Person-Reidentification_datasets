@@ -56,7 +56,7 @@ Examples of datasets are as follows. Upper: occluded person images; Below: full-
 
 The Occluded-REID, P-DukeMTMC-reID and P-ETHZ datasets are for academic or educational use, but not for commercial use.
 If our Occluded-REID, P-DukeMTMC-reID and P-ETHZ datasets facilitate your research, please cite our paper:
-'''
+'''cpp
 @article{zhuo2018occluded,
   title={Occluded Person Re-identification},
   author={Zhuo, Jiaxuan and Chen, Zeyu and Lai, Jianhuang and Wang, Guangcong},
