@@ -67,5 +67,6 @@ If our Occluded-REID, P-DukeMTMC-reID and P-ETHZ datasets facilitate your resear
 
 ## Reference
 [1]Jiaxuan Zhuo, Zeyu Chen, Jianhuang Lai, Guangcong Wang. Occluded Person Re-Identification.2018 IEEE International Conference on Multimedia and Expo, ICME 2018, San Diego, CA, USA, July 23-27, 2018.
+
 [2]W. S. Zheng, X. Li, T. Xiang, S. C. Liao, J. H. Lai, and S. G. Gong, “Partial person re-identiﬁcation,” in ICCV, 2015.
 
