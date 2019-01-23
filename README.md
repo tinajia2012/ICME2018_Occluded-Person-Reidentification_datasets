@@ -36,6 +36,12 @@ We compare our method with the state-of-the-art methods on the Occluded-REID dat
   
 ## Occluded Person Re-id Datasets
 
+### Occluded-REID dataset
+Occluded-REID dataset is a new dataset captured by mobile camera equipments, which consists of 2000 images of 200 persons. Each identity has 5 full-body person images and 5 occluded person images with different types of severe occlusion. All images with different viewpoints and backgrounds are resized to 128×64. This dataset will be released later. 
+
+### P-DukeMTMC-reID dataset and P-ETHZ dataset
+P-DukeMTMC-reID dataset and P-ETHZ dataset are modiﬁed from DukeMTMC-reID dataset and ETHZ dataset. They contain several images with target persons occluded by different types of occlusion in public, e.g., peoples, luggages, cars, and guideboards. We select identities with both full-body person images and occluded person images. After the arrangement, there are 24143 images of 1299 identitiesinP-DukeMTMC-reIDand3897imagesof85identities in P-ETHZ respectively.
+
 ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/dataset.JPG)
 
 All the datasets are only allowed for non-commercial purposes.  If these datasets are used for research, please refer to the corresponding paper. 
