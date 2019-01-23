@@ -12,7 +12,12 @@ Person re-identiﬁcation (re-id) suffers from a serious occlusion problem when 
  ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/framework.JPG)
 
 ### Experiment
-
+ ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/result1.JPG)
+ 
+ ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/result2.JPG)
+  
+ ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/result3.JPG)
+ 
 
 All the datasets are only allowed for non-commercial purposes.  If these datasets are used for research, please refer to the corresponding paper. 
 This is the page for our paper Occluded Person Re-identification, to be appeared in ICME 2018. We are the first to propose the occluded person re-id task, as is illustrated below. 
