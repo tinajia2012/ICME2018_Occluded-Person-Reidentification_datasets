@@ -52,6 +52,16 @@ Examples of datasets are as follows. Upper: occluded person images; Below: full-
 
 ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/dataset.JPG)
 
-All the datasets are only allowed for non-commercial purposes.  If these datasets are used for research, please refer to the corresponding paper. 
-This is the page for our paper Occluded Person Re-identification, to be appeared in ICME 2018. We are the first to propose the occluded person re-id task, as is illustrated below.
+## Citation
+
+The Occluded-REID, P-DukeMTMC-reID and P-ETHZ datasets are for academic or educational use, but not for commercial use.
+If our Occluded-REID, P-DukeMTMC-reID and P-ETHZ datasets facilitate your research, please cite our paper:
+'''
+@article{zhuo2018occluded,
+  title={Occluded Person Re-identification},
+  author={Zhuo, Jiaxuan and Chen, Zeyu and Lai, Jianhuang and Wang, Guangcong},
+  journal={arXiv preprint arXiv:1804.02792},
+  year={2018}
+}
+'''
 
