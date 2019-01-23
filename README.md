@@ -9,7 +9,7 @@ Person re-identiﬁcation (re-id) suffers from a serious occlusion problem when 
  ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/challenge.JPG)
  
 ### Framework
- ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/Framework.JPG)
+ ![image](https://github.com/tinajia2012/ICME2018_Occluded-Person-Reidentification_datasets/raw/master/image/framework.JPG)
 
 ### Experiment
 
